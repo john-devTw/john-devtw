@@ -1,18 +1,6 @@
-### HTML & CSS Project
+# Web and Extension Developer
 
-`This repository contains basic HTML and CSS projects focused on building responsive and modern web layouts.`
+Developer focused on building functional websites and browser extensions. Experienced in JavaScript/TypeScript environments, browser APIs, and modern frontend frameworks.
 
-### Features
-- `Responsive design`
-- `Clean HTML structure`
-- `CSS styling and layout practice`
+**Technologies:** JavaScript, TypeScript, React, Vue, Node.js, Chrome API.
 
-### Technologies Used
-- HTML5
-- CSS3
-
-### Purpose
-This project is created for learning and practicing frontend development basics.
-
-### Author
-**`John Miller`**
